@@ -1,0 +1,173 @@
+{
+    "business_cards": [
+      {
+        "card_type": 3,
+        "color": 1,
+        "id": 1,
+        "image": "https://github.com/rohan-317/swipe_images/blob/main/businesscards/B1%20copy.jpg?raw=true"
+      },
+      {
+        "card_type": 2,
+        "color": 1,
+        "id": 2,
+        "image": "https://github.com/rohan-317/swipe_images/blob/main/businesscards/B2%20copy.jpg?raw=true"
+      },
+      {
+        "card_type": 2,
+        "color": 0,
+        "id": 3,
+        "image": "https://github.com/rohan-317/swipe_images/blob/main/businesscards/B3%20copy.jpg?raw=true"
+      },
+      {
+        "card_type": 3,
+        "color": 0,
+        "id": 4,
+        "image": "https://github.com/rohan-317/swipe_images/blob/main/businesscards/B4%20copy.jpg?raw=true"
+      },
+      {
+        "card_type": 2,
+        "color": 0,
+        "id": 5,
+        "image": "https://github.com/rohan-317/swipe_images/blob/main/businesscards/B5%20copy.jpg?raw=true"
+      },
+      {
+        "card_type": 1,
+        "color": 0,
+        "id": 6,
+        "image": "https://github.com/rohan-317/swipe_images/blob/main/businesscards/B6%20copy.jpg?raw=true"
+      },
+      {
+        "card_type": 1,
+        "color": 1,
+        "id": 7,
+        "image": "https://github.com/rohan-317/swipe_images/blob/main/businesscards/B7%20copy.jpg?raw=true"
+      },
+      {
+        "card_type": 1,
+        "color": 1,
+        "id": 8,
+        "image": "https://github.com/rohan-317/swipe_images/blob/main/businesscards/B8%20copy.jpg?raw=true"
+      },
+      {
+        "card_type": 1,
+        "color": 1,
+        "id": 9,
+        "image": "https://github.com/rohan-317/swipe_images/blob/main/businesscards/B9%20copy.jpg?raw=true"
+      },
+      {
+        "card_type": 1,
+        "color": 1,
+        "id": 10,
+        "image": "https://github.com/rohan-317/swipe_images/blob/main/businesscards/B10%20copy.jpg?raw=true"
+      },
+      {
+        "card_type": 1,
+        "color": 1,
+        "id": 11,
+        "image": "https://github.com/rohan-317/swipe_images/blob/main/businesscards/B11%20copy.jpg?raw=true"
+      },
+      {
+        "card_type": 3,
+        "color": 1,
+        "id": 12,
+        "image": "https://github.com/rohan-317/swipe_images/blob/main/businesscards/B12%20copy.jpg?raw=true"
+      },
+      {
+        "card_type": 3,
+        "color": 1,
+        "id": 13,
+        "image": "https://github.com/rohan-317/swipe_images/blob/main/businesscards/B13%20copy.jpg?raw=true"
+      },
+      {
+        "card_type": 3,
+        "color": 1,
+        "id": 14,
+        "image": "https://github.com/rohan-317/swipe_images/blob/main/businesscards/B14%20copy.jpg?raw=true"
+      },
+      {
+        "card_type": 1,
+        "color": 1,
+        "id": 15,
+        "image": "https://github.com/rohan-317/swipe_images/blob/main/businesscards/B15%20copy.jpg?raw=true"
+      },
+      {
+        "card_type": 1,
+        "color": 1,
+        "id": 16,
+        "image": "https://github.com/rohan-317/swipe_images/blob/main/businesscards/B16%20copy.jpg?raw=true"
+      },
+      {
+        "card_type": 3,
+        "color": 1,
+        "id": 17,
+        "image": "https://github.com/rohan-317/swipe_images/blob/main/businesscards/B17%20copy.jpg?raw=true"
+      },
+      {
+        "card_type": 2,
+        "color": 0,
+        "id": 18,
+        "image": "https://github.com/rohan-317/swipe_images/blob/main/businesscards/B18%20copy.jpg?raw=true"
+      },
+      {
+        "card_type": 1,
+        "color": 1,
+        "id": 19,
+        "image": "https://github.com/rohan-317/swipe_images/blob/main/businesscards/B19%20copy.jpg?raw=true"
+      },
+      {
+        "card_type": 1,
+        "color": 1,
+        "id": 20,
+        "image": "https://github.com/rohan-317/swipe_images/blob/main/businesscards/B20%20copy.jpg?raw=true"
+      },
+      {
+        "card_type": 2,
+        "color": 1,
+        "id": 21,
+        "image": "https://github.com/rohan-317/swipe_images/blob/main/businesscards/B21%20copy.jpg?raw=true"
+      },
+      {
+        "card_type": 3,
+        "color": 1,
+        "id": 22,
+        "image": "https://github.com/rohan-317/swipe_images/blob/main/businesscards/B22%20copy.jpg?raw=true"
+      },
+      {
+        "card_type": 3,
+        "color": 1,
+        "id": 23,
+        "image": "https://github.com/rohan-317/swipe_images/blob/main/businesscards/B23%20copy.jpg?raw=true"
+      },
+      {
+        "card_type": 3,
+        "color": 1,
+        "id": 24,
+        "image": "https://github.com/rohan-317/swipe_images/blob/main/businesscards/B24%20copy.jpg?raw=true"
+      },
+      {
+        "card_type": 3,
+        "color": 1,
+        "id": 25,
+        "image": "https://github.com/rohan-317/swipe_images/blob/main/businesscards/B25%20copy.jpg?raw=true"
+      },
+      {
+        "card_type": 1,
+        "color": 1,
+        "id": 26,
+        "image": "https://github.com/rohan-317/swipe_images/blob/main/businesscards/B26%20copy.jpg?raw=true"
+      },
+      {
+        "card_type": 3,
+        "color": 1,
+        "id": 27,
+        "image": "https://github.com/rohan-317/swipe_images/blob/main/businesscards/B27%20copy.jpg?raw=true"
+      },
+      {
+        "card_type": 1,
+        "color": 1,
+        "id": 28,
+        "image": "https://github.com/rohan-317/swipe_images/blob/main/businesscards/B28%20copy.jpg?raw=true"
+      }
+    ],
+    "success": true
+  }
